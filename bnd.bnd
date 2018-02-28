@@ -1,0 +1,4 @@
+#
+#   ORG ADEMPIERE INSTALL
+#
+Export-Package: org.adempiere.install*, org.compiere.install*
