@@ -1,1 +1,1 @@
-# org.adempiere.install
+# iDempiere Setup (org.adempiere.install)
